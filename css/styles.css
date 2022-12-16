@@ -232,7 +232,7 @@ margin-bottom: 8px;
 
     }
 
-.feature-list>.item {
+.feature-list>.feature-item {
     flex-basis: calc(100%/4 - var(--card-gap));
    margin-left:var(--card-gap);
    }
