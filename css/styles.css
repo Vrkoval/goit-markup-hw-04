@@ -165,7 +165,8 @@ body{
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),  url('../images/hero.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    
+    background-position: center;
+
 }
   .title{
     font-weight: 500; 
@@ -181,7 +182,7 @@ margin: 0 auto;
 width: 496px;
 margin-bottom: 48px;
     }
-    .
+    
 
 .button-order {
     color: var(--primary-white-color);
@@ -203,6 +204,7 @@ margin-bottom: 48px;
 .hidden-title {position: fixed;
     transform: scale(0);
 }
+
 .section-feature {
        padding: 120px 0 120px 0;
 
