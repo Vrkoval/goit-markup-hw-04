@@ -153,11 +153,20 @@ body{
         0px 1px 1px rgba(46, 47, 66, 0.16),
         0px 1px 6px rgba(46, 47, 66, 0.08);
 }
-
+/* --section HERO-- */
 .hero {
     padding: 192px 0;
     background-color: var(--primary-text-color);
-    text-align: center;}
+    text-align: center;
+    max-width: 1440px;
+    height: 603px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),  url('../images/hero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
   .title{
     font-weight: 500; 
     color: var(--title-text-color);
@@ -172,6 +181,7 @@ margin: 0 auto;
 width: 496px;
 margin-bottom: 48px;
     }
+    .
 
 .button-order {
     color: var(--primary-white-color);
