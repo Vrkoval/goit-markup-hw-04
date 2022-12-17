@@ -114,7 +114,8 @@ body{
         text-decoration: none;
            }
      
-        .site-nav .item:not(:last-child){
+        .site-nav .item:not(:last-child)
+        {
         margin-right: 40px;
         text-decoration: none;
     }
@@ -254,6 +255,7 @@ margin-bottom: 8px;
 .feature-icon {
 
 }
+
  /* Section Images */
 
 .img-section {
@@ -272,7 +274,8 @@ margin-bottom: 72px;
     display: flex;
     flex-wrap: wrap;
     list-style: none ;
-     margin-left: calc(-1 * 24px);
+     /* margin-left: calc(-1 * 24px); */
+     row-gap: 24px;
 }
  
 
