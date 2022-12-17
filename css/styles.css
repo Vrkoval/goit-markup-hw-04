@@ -58,7 +58,7 @@ body{
     color: var(--primary-text-color);
     font-family: 'Roboto', sans-serif,'Verdana';
     font-size: 16px;
-    margin-right: 0px;
+    /* margin-right: 0px; */
             }
      
         .conteiner {
@@ -254,8 +254,8 @@ margin-bottom: 8px;
  }
 .feature-icon {
     display: block;
-    width: 64px;
-    height: 64px;
+    /* width: 64px;
+    height: 64px; */
 }
 
  /* Section Images */
