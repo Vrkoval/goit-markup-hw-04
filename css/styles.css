@@ -233,7 +233,7 @@ margin-bottom: 8px;
 
     }
 
-.feature-list>.feature-item {
+.feature-list>.item {
     flex-basis: calc(100%/4 - var(--card-gap));
    margin-left:var(--card-gap);
    }
