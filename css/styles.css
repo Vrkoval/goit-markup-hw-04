@@ -240,7 +240,15 @@ margin-bottom: 8px;
         font-size: 16px;
         line-height: 1.5;
     }
- .feature-ico-bg {
+ .feature-icon-bg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 264px;
+    height: 112px;
+    background: var(--secondary-bg-color);
+    border-radius: 4px;
+    margin-bottom: 8px;
 
  }
 .feature-icon {
