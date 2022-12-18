@@ -367,7 +367,15 @@ margin-bottom: 72px;
     width: 16px;
     height: 16px;
 }
-
+.our-team-title no bg{
+font-size: 36px;
+line-height: 1.1;
+text-align: center;
+text-transform: capitalize;
+letter-spacing: 0.02em;
+color: var(--title-text-color);
+margin-bottom: 72px;
+}
 .customers-list{
     list-style: none;
     display: flex;
