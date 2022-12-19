@@ -361,7 +361,7 @@ margin-bottom: 72px;
     background-color: #31D0AA;
 }
 
-.person-social-media-ico {
+.person-social-media-icon {
     display: block;
     fill: #FFFFFF;
     width: 16px;
@@ -404,7 +404,7 @@ margin-bottom: 72px;
     border: 1px solid #4D5AE5;
 }
 
-.customers-ico{
+.customers-icon{
     display: block;
     width: 104px;
     height: 56px;
@@ -474,7 +474,56 @@ text-decoration: none;
 .logorweb:hover,.footer-logo:hover, .logoname:focus, .footer-logo:focus {
     color: var(--link-color);
     }
-     
+    .footer-social-media-title{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 1.5;
+        margin-bottom: 16px;
+        color: #F4F4FD;
+        margin-left: 120px;
+      
+    }
+    
+    .footer-desc{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+      
+    }
+    
+    .footer-social-media-list {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 24px;
+        margin-top: 12px;
+        margin-left: 120px;
+    }
+    
+    .footer-social-media-link {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 40px;
+        height: 40px;
+        background-color: rgba(255, 255, 255, 0.1);;
+        border-radius: 50%;
+    }
+    
+    .footer-social-media-link:hover,
+    .footer-social-media-link:focus {
+        background-color: #31D0AA;
+    }
+    
+    .footer-social-media-icon {
+        display: block;
+        fill: #FFFFFF;
+        width: 16px;
+        height: 16px;
+    } 
    /* Portfolio */
    
    .portfolio-section{
