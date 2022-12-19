@@ -303,6 +303,7 @@ margin-bottom: 72px;
 }
   .team-item{
     background-color: var(--primary-white-color);
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
     width: 264px;
     text-align: center;
     margin-right: var(--card-gap);
@@ -430,6 +431,7 @@ padding: 100px 0;
 }
 
 .footer-desk-block{
+    display: block;
     width: 264px;
 }
 
@@ -499,7 +501,7 @@ text-decoration: none;
         justify-content: center;
         align-items: center;
         gap: 24px;
-        margin-top: 12px;
+        /* margin-top: 12px; */
         margin-left: 120px;
     }
     
