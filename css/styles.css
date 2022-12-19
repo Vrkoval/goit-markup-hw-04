@@ -427,6 +427,8 @@ footer {
     background-color: var(--primary-text-color); 
 color: var( --title-text-color);
 padding: 100px 0;
+height: 310px;
+   
 
 }
 
