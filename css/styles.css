@@ -277,9 +277,7 @@ margin-bottom: 72px;
     display: flex;
     flex-wrap: wrap;
     list-style: none ;
-     /* margin-left: calc(-1 * 24px); */
-     row-gap: 24;
-}
+   }
  
 
 .work-list >.item {
